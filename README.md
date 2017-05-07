@@ -1,2 +1,2 @@
 # git-github
-this is partuculare purpose.
+this is tutorials purpose  .
