@@ -1,2 +1,2 @@
 # git-github
-this is tutorials purpose  .
+this is for tutorial purpose.
